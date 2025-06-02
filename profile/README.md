@@ -1,4 +1,4 @@
-# [👽 RASJ 👨‍💻 / ](https://github.com/rasj-machine) [🧬](https://github.com/rasj-lab)
+# [👽 RASJ 👨‍💻](https://github.com/rasj-machine) / [🧬](https://github.com/rasj-lab)
 
 ## [~](https://github.com/rasj-machine/home)/[code](https://github.com/rasj-machine/code)/[namespaces](https://github.com/rasj-machine/code/tree/main/namespaces)/[ 🧙 rasj](https://github.com/rasj-lab/codespace)
 
