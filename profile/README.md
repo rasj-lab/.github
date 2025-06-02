@@ -1,6 +1,6 @@
 # 👽 RASJ 👨‍💻  
 
-## 🧙 ~/code/namespaces/rasj 
+## 🧬 ~/code/namespaces/rasj 🧙
 
 - Be honest
 - Be good
