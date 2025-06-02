@@ -1,4 +1,6 @@
-# 👽 RASJ 👨‍💻 Machine ~/code/namespaces/rasj 🧬
+# 👽 RASJ 👨‍💻 Machine 
+
+## ~/code/namespaces/rasj 🧬
 
 - Be honest
 - Be good
