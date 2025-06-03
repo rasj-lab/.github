@@ -6,8 +6,8 @@
 - Be good
 - Be awesome
 
-## 2 Primary Rules
+## 😎 2 Primary Rules
 - You don't stop
 - You keep going
 
-😎
+
